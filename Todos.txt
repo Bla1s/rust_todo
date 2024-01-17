@@ -1,5 +1,6 @@
 [Any] zrobić aplikacje TODO
-[InProgress] zrobić coś
-[Done] zrobić pranie
-[Todo] umyć zęby
-[Any] zaktualizować ui
+[InProgress] zrobić obiad
+[Done] zrobić projekt
+[Todo] nauczyć się na egzamin
+[Any] pójść na uczelnie
+[Todo] wstać na zajęcia
